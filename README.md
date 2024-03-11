@@ -1,4 +1,4 @@
-# Building Genealogy tree GUI with Python
+# Building Genealogy Tree GUI With Python
 If you ever tried to collect and organize the data about your family members you will agree that it is not that easy to finish that in one go as it seems from the first glance. I believe that everyone has seen at least once these nicely-organized trees of royal dynasties in history books. 
 
 <img style="float: center;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/900-158_Ahnentafel_Herzog_Ludwig.jpg/450px-900-158_Ahnentafel_Herzog_Ludwig.jpg">
